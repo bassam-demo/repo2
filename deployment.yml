@@ -23,7 +23,7 @@ spec:
             - containerPort: 443
 
 ---
-apiVersion: v1
+apiVersion: v2
 kind: Service
 metadata:
   name:  elastic-api-dev
