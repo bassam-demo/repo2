@@ -1,5 +1,5 @@
 apiVersion: apps/v1
-kind: StatefulSet
+kind: StatefulSetttt
 metadata:
   name: elastic-api-dev2
   namespace: default
